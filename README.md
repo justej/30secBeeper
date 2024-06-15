@@ -1,0 +1,1 @@
+An STM8S003 based timer that signals (beeps) at the start and the end of a 30 second period. After the end of the period it goes to deep sleep to minimize power consumption. The only way to restart the timer is to reset.
